@@ -1,10 +1,11 @@
-### Bem-vindos ao meu GitHub, meu nome é Alex Mengue e sou desenvolvedor Front-End! 😉
+
+<h1> Welcome to my GitHub profile! :)</h1>
 
 ##
 
-<div align="center">
+<div>
   <a href="https://github.com/alexmengue">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexmengue&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexmengue&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmengue&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
